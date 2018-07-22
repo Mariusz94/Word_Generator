@@ -118,7 +118,7 @@ public class Main {
     }
 
     private List<String> getWordFromFile() {
-        File file = new File("D:\\Główny folder MojaJava\\Moje programy\\Word_Generator\\src\\slowa.txt");
+        File file = new File("slowa.txt");
 
         List<String> wordList = null;
         try {
